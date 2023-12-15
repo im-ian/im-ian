@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=2d55ff&text=IAN%20IM&height=150&fontSize=60&desc=🐿&descAlignY=27&descAlign=50)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fim-ian%2Fhit-counter&count_bg=%23A4ADD1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ## 🎯 Main Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
@@ -29,12 +31,14 @@
 ![Jest](https://img.shields.io/badge/Jest-grey?style=for-the-badge&logo=jest)
 ![Cypress](https://img.shields.io/badge/Cypress-grey?style=for-the-badge&logo=cypress)
 
+<br />
+<br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-ian&show_icons=true&theme=tokyonight)](https://github.com/im-ian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ian&layout=compact&theme=tokyonight)](https://github.com/im-ian)
 
 <br />
-<hr />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-ian)](https://github.com/anuraghazra/github-readme-stats)
+## Others
 
-## My...
-[Blog](https://chipmunk-blog.vercel.app/) / 
+[![Blog](https://img.shields.io/badge/blog-grey?style=for-the-badge&logo=notion)](https://chipmunk-blog.vercel.app/)
