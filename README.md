@@ -31,7 +31,7 @@
 ![Jest](https://img.shields.io/badge/Jest-grey?style=for-the-badge&logo=jest)
 ![Cypress](https://img.shields.io/badge/Cypress-grey?style=for-the-badge&logo=cypress)
 
-## 🧰 Tools
+## 🛠 Tools
 
 ![VSCode](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visual-studio-code)
 ![Notion](https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion)
