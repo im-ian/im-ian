@@ -48,4 +48,4 @@
 
 ## Others
 
-[![Blog](https://img.shields.io/badge/blog-grey?style=for-the-badge&logo=notion)](https://chipmunk-blog.vercel.app/)
+[![Blog](https://img.shields.io/badge/blog-grey?style=for-the-badge&logo=notion)](https://blog.naver.com/im-ian)
