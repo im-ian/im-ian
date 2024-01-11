@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=2d55ff&text=IAN%20IM&height=150&fontSize=60&desc=🐿&descAlignY=27&descAlign=50)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fim-ian%2Fhit-counter&count_bg=%23A4ADD1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=true)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fim-ian%2Fhit-counter&count_bg=%23A4ADD1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=true)
 
 ## 🎯 Main Skills
 
