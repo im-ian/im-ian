@@ -46,6 +46,12 @@
 
 <br />
 
+## 📦 Packages
+
+- [@im-ian/react-survey](https://www.npmjs.com/package/@im-ian/react-survey); 설문 폼과 설문 화면을 간단하게 구현할 수 있는 React 라이브러리입니다.
+
+<br />
+
 ## Others
 
 [![Blog](https://img.shields.io/badge/blog-grey?style=for-the-badge&logo=notion)](https://blog.naver.com/im-ian)
