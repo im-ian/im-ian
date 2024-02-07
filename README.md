@@ -54,4 +54,5 @@
 
 ## Others
 
-[![Blog](https://img.shields.io/badge/blog-grey?style=for-the-badge&logo=notion)](https://blog.naver.com/im-ian)
+[![NaverBlog](https://img.shields.io/badge/naver%20blog-white?style=for-the-badge&logo=Naver)](https://blog.naver.com/im-ian)
+[![NotionBlog](https://img.shields.io/badge/notion%20blog-grey?style=for-the-badge&logo=notion)](https://chipmunk-blog.vercel.app/)
