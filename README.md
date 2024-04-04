@@ -25,7 +25,7 @@
 ![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php)
 
 
-## 📖 Interest Skills
+## 📖 On Study
 
 ![GraphQL](https://img.shields.io/badge/GraphQL-grey?style=for-the-badge&logo=graphql)
 ![Jest](https://img.shields.io/badge/Jest-grey?style=for-the-badge&logo=jest)
