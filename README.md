@@ -37,10 +37,10 @@
 ![Slack](https://img.shields.io/badge/Slack-grey?style=for-the-badge&logo=slack)
 
 <br />
-<br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-ian&show_icons=true&theme=tokyonight)](https://github.com/im-ian)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ian&layout=compact&theme=tokyonight)](https://github.com/im-ian)
+## 📖 [Blog](https://www.chipmunk-world.com/)
+
+- [Server Driven UI 적용기 – 기획/설계편](https://www.chipmunk-world.com/post/server-driven-ui-planning)
 
 <br />
 
@@ -50,7 +50,3 @@
 
 <br />
 
-## Others
-
-[![NaverBlog](https://img.shields.io/badge/naver%20blog-white?style=for-the-badge&logo=Naver)](https://blog.naver.com/im-ian)
-[![NotionBlog](https://img.shields.io/badge/notion%20blog-grey?style=for-the-badge&logo=notion)](https://chipmunk-blog.vercel.app/)
