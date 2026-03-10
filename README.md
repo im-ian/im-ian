@@ -4,16 +4,13 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3)
 
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)
 ![React Native](https://img.shields.io/badge/React_Native-grey?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)
-
-![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/Sass-grey?style=for-the-badge&logo=sass)
-![styled-components](https://img.shields.io/badge/styled--components-grey?style=for-the-badge&logo=styled-components)
 
 
 ## 👀 Sub Skills
