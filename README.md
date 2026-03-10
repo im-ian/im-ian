@@ -23,24 +23,19 @@
 ![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php)
 
 
-## 📖 On Study
-
-![GraphQL](https://img.shields.io/badge/GraphQL-grey?style=for-the-badge&logo=graphql)
-![Jest](https://img.shields.io/badge/Jest-grey?style=for-the-badge&logo=jest)
-![Cypress](https://img.shields.io/badge/Cypress-grey?style=for-the-badge&logo=cypress)
-
 ## 🛠 Tools
 
-![VSCode](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visual-studio-code)
+![VSCode](https://img.shields.io/badge/cursor-grey?style=for-the-badge&logo=cursor)
 ![Notion](https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion)
 ![Figma](https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma)
 ![Slack](https://img.shields.io/badge/Slack-grey?style=for-the-badge&logo=slack)
 
 <br />
 
-## 📖 [Blog](https://www.chipmunk-world.com/)
+## 🔗 Link
 
-- [Server Driven UI 적용기 – 기획/설계편](https://www.chipmunk-world.com/post/server-driven-ui-planning)
+- [Blog; https://www.chipmunk-world.com/](https://www.chipmunk-world.com/)
+
 
 <br />
 
