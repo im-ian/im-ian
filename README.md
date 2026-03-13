@@ -31,7 +31,8 @@
 
 ## 🔗 Link
 
-- [Blog; https://www.chipmunk-world.com/](https://www.chipmunk-world.com/)
+- [Blog](https://www.chipmunk-world.com/)
+  - [Server Side Driven UI 적용기](https://www.chipmunk-world.com/tags/SUDI)
 
 
 <br />
