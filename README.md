@@ -29,10 +29,21 @@
 
 <br />
 
-## 🔗 Link
+## ✍️ Blog
 
-- [Blog](https://www.chipmunk-world.com/)
-  - [Server Side Driven UI 적용기](https://www.chipmunk-world.com/tags/SUDI)
+[chipmunk-world.com](https://www.chipmunk-world.com/)
+
+- 🏆 [2023 웹 어워드 코리아, 지디웹 디자인 어워드 수상!](https://www.chipmunk-world.com/post/2023-web-award) · 2024.01
+- 📝 [노션으로 블로그 만들기 프로젝트](https://www.chipmunk-world.com/post/notion-blog-project) · 2024.03
+- 📚 Server Driven UI 적용기 ([전체 보기](https://www.chipmunk-world.com/tags/SDUI)) · 2025.05–06
+  1. [기획/설계편](https://www.chipmunk-world.com/post/server-driven-ui-planning)
+  2. [클라이언트 구현편](https://www.chipmunk-world.com/post/server-driven-ui-client1)
+  3. [클라이언트 개선편](https://www.chipmunk-world.com/post/server-driven-ui-client2)
+  4. [어드민 모듈 타입 설계편](https://www.chipmunk-world.com/post/server-driven-ui-admin-module-type)
+  5. [어드민 Form DSL편](https://www.chipmunk-world.com/post/server-driven-ui-admin-form-dsl)
+  6. [어드민 UI/UX편](https://www.chipmunk-world.com/post/server-driven-ui-admin-uiux)
+- 🗳️ [Socket.io로 실시간 투표 앱 만들어보기](https://www.chipmunk-world.com/post/lets-vote-socket-io) · 2025.07
+- 🧱 [Next.js에서 API 레이어를 세 겹으로 나눠본 이야기](https://www.chipmunk-world.com/post/nextjs-api-layer-design) · 2025.11
 
 
 <br />
