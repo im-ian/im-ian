@@ -50,7 +50,7 @@
 
 ## 📦 Packages
 
-- [@im-ian/create-react-shadcn-app](https://www.npmjs.com/package/create-react-shadcn-app); React + shadcn/ui 애플리케이션을 빠르게 생성하는 CLI 도구입니다.
+- [create-react-shadcn-app](https://www.npmjs.com/package/create-react-shadcn-app); React + shadcn/ui 애플리케이션을 빠르게 생성하는 CLI 도구입니다.
 - [@im-ian/react-survey](https://www.npmjs.com/package/@im-ian/react-survey); 설문 폼과 설문 화면을 간단하게 구현할 수 있는 React 라이브러리입니다.
 - [short-form-view](https://www.npmjs.com/package/short-form-view); 인스타그램·틱톡처럼 세로로 스와이프하는 숏폼 피드를 영상·이미지 등 원하는 뷰로 채울 수 있는 React 라이브러리입니다.
 
